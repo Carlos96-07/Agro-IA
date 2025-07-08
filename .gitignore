@@ -1,0 +1,9 @@
+__pycache__/
+.pyc
+.pyo
+.h5
+.keras
+.env
+.venv/
+.ipynb_checkpoints/
+data/processed/
